@@ -7,13 +7,6 @@ A JavaScript Library for Syntax Highlighting with Awesome themes
 #### Check Out [Available Themes](Themes.md) and [Languages](Languages.md)
 
 
-# Including the Library
-Add the following script to your site and shiki highlighter will be ready for use. 
-```html
-<script src="https://cdn.jsdelivr.net/gh/arnav-kr/Shikijs/dist/V1.2.1/shikiHighlighter.min.js"></script>
-```
-
-
 # Getting Started
 So now we have included the script so we can now use shiki highlighter.
 
@@ -115,8 +108,6 @@ A table explaining all is given below.
 | Shiki.errorLog | Property | — | Array | — |
 
 
-_**Shiki Highlighter JS**_ by [Arnav Kumar](https://github/com/arnav-kr).
-
-Having Trouble reading the documentation? view it [Online](https://arnav-kr.github.io/shikijs)
+_**Shiki Highlighter JS**_ by [Frank Loyd](https://github/com/FrankLoyd).
 
 
